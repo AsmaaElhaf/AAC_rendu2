@@ -1,0 +1,4 @@
+/home/ubuntu/AAC/build/CMakeFiles/min_avec_segments.dir
+/home/ubuntu/AAC/build/CMakeFiles/test.dir
+/home/ubuntu/AAC/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/AAC/build/CMakeFiles/rebuild_cache.dir

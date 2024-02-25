@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmin_avec_segments.a CMakeFiles/min_avec_segments.dir/src/source.cpp.o
+/usr/bin/ranlib libmin_avec_segments.a
